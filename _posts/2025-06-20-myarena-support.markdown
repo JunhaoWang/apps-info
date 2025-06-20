@@ -2,7 +2,7 @@
 layout: post
 title:  "MyArena Support"
 date:   2025-06-20 10:04:03 -0800
-categories: support
+categories: jekyll update
 ---
 # MyArena Support
 

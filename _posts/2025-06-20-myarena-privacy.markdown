@@ -2,7 +2,7 @@
 layout: post
 title:  "MyArena Privacy Policy"
 date:   2025-06-20 10:03:03 -0800
-categories: privacy
+categories: jekyll update
 ---
 # MyArena Privacy Policy
 
