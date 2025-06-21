@@ -32,7 +32,7 @@ We partner with trusted providers to host, operate, and secure your data. We do 
 ## Your Choices
 
 - **Location Access**: You may disable location permission at any time; certain features will be limited.  
-- **Data Deletion**: Email **wjhtomwjh@myarena.app** to request deletion of your account and data.
+- **Data Deletion**: Email **wjhtomwjh@gmail.com** to request deletion of your account and data.
 
 ## Security
 

@@ -29,7 +29,7 @@ Email: **wjhtomwjh@gmail.com**
    - Email us your receipt if you need help.
 
 4. **Feature Requests & Feedback**  
-   - We value your input! Email any ideas or suggestions to **wjhtomwjh@myarena.app**.
+   - We value your input! Email any ideas or suggestions to **wjhtomwjh@gmail.com**.
 
 ---
 
